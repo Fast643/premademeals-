@@ -44,7 +44,7 @@ export function PostcodeSearch() {
             error
               ? "border-red-300 focus:border-red-500 focus:ring-red-200"
               : "border-primary-200 focus:border-primary-500 focus:ring-primary-200",
-            "placeholder:text-gray-400"
+            "placeholder:text-gray-600"
           )}
         />
         <button
